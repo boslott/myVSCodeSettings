@@ -27,7 +27,6 @@
   },
   "workbench.statusBar.visible": true,
   "terminal.integrated.shell.osx": "/bin/zsh",
-  // "/usr/local/bin/fish"
   "terminal.integrated.fontSize": 14,
   "terminal.integrated.lineHeight": 1.2,
   "workbench.colorTheme": "Cobalt2",
