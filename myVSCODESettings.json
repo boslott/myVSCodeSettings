@@ -1,0 +1,37 @@
+{
+  "window.zoomLevel": 2,
+  "editor.tabSize": 2,
+  "editor.wordWrap": "on",
+  "editor.renderWhiteSpace": "all",
+  "html.format.wrapLineLength": 80,
+  "html.format.indentInnerHtml": true,
+  "editor.renderWhitespace": "all",
+  "editor.quickSuggestionsDelay": 200,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.selectionHighLight": false,
+  "editor.scrollBeyondLastLine": false,
+  "workbench.panel.location": "bottom",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.detectIndentation": false,
+  "editor.parameterHints": false,
+  "editor.quickSuggestions": false,
+  "workbench.sideBar.location": "left",
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "plaintext": "jade"
+  },
+  "editor.colorDecorators": true,
+  "files.exclude": {
+    "**/.git": false
+  },
+  "workbench.statusBar.visible": true,
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  // "/usr/local/bin/fish"
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.2,
+  "workbench.colorTheme": "Cobalt2",
+  "editor.dragAndDrop": true,
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true
+}
