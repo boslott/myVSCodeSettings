@@ -32,5 +32,8 @@
   "workbench.colorTheme": "Cobalt2",
   "editor.dragAndDrop": true,
   "editor.fontFamily": "Fira Code",
-  "editor.fontLigatures": true
+  "editor.fontLigatures": true,
+  "eslint.autoFixOnSave": true,
+
+
 }
